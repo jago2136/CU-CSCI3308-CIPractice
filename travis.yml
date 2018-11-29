@@ -1,0 +1,3 @@
+language: c
+scripts: make dep && maketest && make
+complier: gcc
